@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asheeshgaur
 - 👀 I’m interested in software development
-- 🌱 I’m currently working on .net and javascript/typescript
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me.
+- 🌱 I’m currently working in web development using .net/c# and javascript/typescript
+- 💞️ I’m looking to collaborate 
+- 📫 feel free to reach me out
